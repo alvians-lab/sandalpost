@@ -26,6 +26,12 @@ baseurl: "/sandalpost"
 url: "https://alvians-lab.github.io"
 # twitter_username: jekyllrb
 github_username:  alvians-lab
+instagram_username: alviansmaulana
+
+# Author name
+author: Sandal646
+
+copyright: Sandal646 (MIT License)
 
 # Build settings
 # Remove minima theme as it is now regular theme
