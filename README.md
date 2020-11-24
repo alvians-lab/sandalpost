@@ -1,4 +1,4 @@
 https://alvians-lab.github.io/sandalpost/
 
-# sandalpost
+# SandalPost.
 Learn and Get Better Everyday
