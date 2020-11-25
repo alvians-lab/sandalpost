@@ -2,8 +2,8 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
+  border-top: 4px solid 0D0D0D /* $grey-color-dark */;
+  border-bottom: 1px solid #8E8E8E /* $grey-color-light */;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
@@ -106,7 +106,7 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  border-top: 1px solid rgb(228, 228, 228) /* $grey-color-light */;
   padding: $spacing-unit 0;
 }
 
