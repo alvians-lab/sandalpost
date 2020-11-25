@@ -21,7 +21,7 @@
 title: SandalPost.
 email: sandalproject7@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my first post site.
+  "We are not chicken!" -Patrick
 baseurl: "/sandalpost"
 url: "https://alvians-lab.github.io"
 # twitter_username: jekyllrb
@@ -30,7 +30,6 @@ instagram_username: alviansmaulana
 
 # Author name
 author: Sandal646
-
 copyright: Sandal646 (MIT License)
 
 # Build settings
